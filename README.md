@@ -13,9 +13,11 @@ age	    number/integer -- the Age is in Months
 height	number/integer -- the height in Inches
 
 weight	number/integer -- the weight in pounds
-
+y
 target  factor         -- M- Male, F- Female
 
-Observation: 
+Observation:
 
 If the Model is build using the raw data, the model is not improving more than 65% of Accuracy.
+By Using the transformed data, the Basic model like Logistic Regression itself gives 98% Accuracy
+and SVM out performed by giving 100% result
