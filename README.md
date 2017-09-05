@@ -7,9 +7,13 @@ The Problem statment is to clasify whether the person is Male or Female.
 # Data Structure
 
 year    number/integer
+
 age	    number/integer -- the Age is in Months
+
 height	number/integer -- the height in Inches
+
 weight	number/integer -- the weight in pounds
+
 target  factor         -- M- Male, F- Female
 
 Observation: 
