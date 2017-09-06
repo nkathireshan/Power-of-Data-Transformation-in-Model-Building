@@ -19,5 +19,6 @@ target  - factor         -- M- Male, F- Female
 Observation:
 
 If the Model is build using the raw data, the model is not improving more than 65% of Accuracy.
-By Using the transformed data, the Basic model like Logistic Regression itself gives 98% Accuracy
-and SVM out performed by giving 100% result
+
+After transformation, just the Statistical model Logistic Regression itself gives 98% Accuracy
+and SVM out performed it by giving 100% prediction result.
