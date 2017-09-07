@@ -18,7 +18,7 @@ target  - factor         -- M- Male, F- Female
 
 Observation:
 
-All though the data set looks simple and small, Either the Statistical models or the Advanced Machine learning models even the Ensambling methods are faling to give more than 65% of accuracy.
+All though the data set looks simple and small, neither the Statistical models nor the Advanced Machine learning models even the Ensambling methods are failng to give us more than 65% of accuracy. For any models.
 
 If the Model is build using the raw data, the model is not improving more than 65% of Accuracy.
 
