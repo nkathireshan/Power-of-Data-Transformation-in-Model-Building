@@ -18,6 +18,8 @@ target  - factor         -- M- Male, F- Female
 
 Observation:
 
+All though the data set looks simple and small, Either the Statistical models or the Advanced Machine learning models even the Ensambling methods are faling to give more than 65% of accuracy.
+
 If the Model is build using the raw data, the model is not improving more than 65% of Accuracy.
 
 After transformation, just the Statistical model Logistic Regression itself gives 98% Accuracy
