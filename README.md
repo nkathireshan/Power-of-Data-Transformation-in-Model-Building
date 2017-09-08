@@ -25,4 +25,4 @@ If the Model is build using the raw data, the model is not improving more than 6
 After transformation, just the Statistical model Logistic Regression itself gives 98% Accuracy
 and SVM out performed it by giving 100% prediction result.
 
-Read Wiki, for mor understanding about Responce Rate calculation.
+Read Wiki, for more understanding about Responce Rate calculation.
