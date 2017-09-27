@@ -1,4 +1,3 @@
-# (This Blog is not complete, under development)
 # Power-of-Data-Transformation-in-Model-Building.
 
 The Power of Data Transformation using Response Rate Calculation, in Model Building, Explained using a simple data set.
@@ -19,11 +18,9 @@ target  - factor         -- M- Male, F- Female
 
 Observation:
 
-All though the data set looks simple and small, neither the Statistical models nor the Advanced Machine learning models even the Ensambling methods are failng to give us more than 65% of accuracy. For any models.
+All though the data set looks simple and small, neither the Statistical models nor the Advanced Machine learning models even the Ensambling methods are failng to give us more than 65% of accuracy.
 
-If the Model is build using the raw data, the model is not improving more than 65% of Accuracy.
-
-After transformation, just the Statistical model Logistic Regression itself gives 98% Accuracy
+After transformation of data, just the Statistical model Logistic Regression itself gives 98% Accuracy
 and SVM out performed it by giving 100% prediction result.
 
 Read Wiki, for more understanding about Responce Rate calculation.
